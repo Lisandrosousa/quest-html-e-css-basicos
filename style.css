@@ -1,24 +1,18 @@
-.produtos-moda-th {
+.produtos-th-moda {
     background-color: #bb86fc;
     color: #ffffff;
     height: 2em;
 }
 
-.produtos-moda-td {
-    background-color: #424250 ;
-    color: #ffffff;
-    height: 2em;
-}
 
-
-.produtos-casa-th {
+.produtos-th-casa {
     background-color: #00c4b4;
     color: #ffffff;
     height: 2em;
 }
 
 
-.produtos-casa-td {
+.dados {
     background-color: #424250;
     color: #ffffff;
     height: 2em;
